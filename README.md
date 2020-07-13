@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**KasunGamage/KasunGamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m Kasun.Thanks for dropping by! I like to Code and help developers to build the next generation applications.
 
-Here are some ideas to get you started:
+<!-- 🌱 I’ve blogged here for nearly 10 years https://sajeetharan.com/ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Ionic, Angular, C# Application
+
+<!-- Former MVP: https://bit.ly/3iPx1MP -->
+
+<!-- Google GDE: https://bit.ly/2ZhzzMh -->
+
+<!-- 💰 Accrediations : https://bit.ly/2ChSIoa -->
+
+<!-- 👯 I’ve contributed on stackoverflow for 8 years : https://bit.ly/2OcebS5 -->
+
+🤔 I’m on LinkedIn : https://www.linkedin.com/in/kasun-gamage95/
+
+<!-- 💬 Some of my Talks :  https://bit.ly/38FAwB2 -->
+
+<!-- 📁 Some of my Presentation slides : -->
+
+<!-- Slides : https://slides.com/sajeetharan -->
+<!-- Slideshare : https://www.slideshare.net/SajeetharanSinnathur -->
+
+📫 How to reach me: https://www.facebook.com/Itsmekasun
+
+😄 Pronouns: he/him/his
+
+<!-- ⚡ Fun fact: I earned my first money at the age of 12,  I was the only kid in my class who knew windows installation, as well as cracking windows password -->
+
+![](https://i.stack.imgur.com/XshE9.gif)
