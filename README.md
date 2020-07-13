@@ -29,4 +29,4 @@
 
 <!-- ⚡ Fun fact: I earned my first money at the age of 12,  I was the only kid in my class who knew windows installation, as well as cracking windows password -->
 
-![](https://i.stack.imgur.com/XshE9.gif)
+![](https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
