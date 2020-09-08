@@ -18,5 +18,6 @@
 - 📱 OpenTok Integration (Cordova plugin) to the Ionic APP
 - 🔒 Integrate SendSafely's end-to-end secure data exchange capabilities into .NET | CORE
 - ⌨ Ionic App Development | Migration
+- ⌨ Transfer learning and fine-tuning (Pre-trained machine learning models) | TensorFlow 
 
 ![](https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
