@@ -13,8 +13,9 @@
 🏆 Things I worked on
 
 - ▶ Zoom Web Sdk Integration to the Angular APP
-- ▶ Zoom Integration (Cordova plugin) to the Ionic APP
+- 📱 Zoom Integration (Cordova plugin) to the Ionic APP
 - ▶ OpenTok Integration to the Angular APP
-- ▶ OpenTok Integration (Cordova plugin) to the Ionic APP
+- 📱 OpenTok Integration (Cordova plugin) to the Ionic APP
+- 🔒 Integrate SendSafely's end-to-end secure data exchange capabilities into .NET | CORE
 
 ![](https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
