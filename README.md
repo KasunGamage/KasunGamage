@@ -4,6 +4,16 @@
 
 <!-- 🌱 I’ve blogged here for nearly 10 years https://sajeetharan.com/ -->
 
+- 🔭 I’m currently working on my health and making customers happy
+- 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
+- 👯 I’m looking to collaborate on a potential podcast
+- 🤔 I’m looking for help with youtube/site redesign
+- 💬 Ask me about [Svelte](https://www.swyx.io/writing/svelte-why/) and [React](https://www.swyx.io/speaking/react-hooks/) and [AWS Amplify](https://www.swyx.io/writing/hello-aws)!
+- 📫 How to reach me: `swyx at hey dot com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
+
+
 💬 Ask me about: Ionic, Angular, C# Application
 
 <!-- Former MVP: https://bit.ly/3iPx1MP -->
