@@ -2,7 +2,7 @@
 
 🔭 I’m Kasun.Thanks for dropping by! I like to Code and help developers to build the next generation applications.
 
-💬 Ask me about: Ionic, Angular, C# Application
+💬 Ask me about: Ionic, Angular, C#, Node.js Application
 
 🤔 I’m on LinkedIn : https://www.linkedin.com/in/kasun-gamage95/
 
