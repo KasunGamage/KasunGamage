@@ -4,7 +4,7 @@
 
 💬 Ask me about: Ionic, Angular, C#, Node.js Application
 
-🤔 I’m on LinkedIn : https://www.linkedin.com/in/kasun-gamage95/
+🤔 I’m on LinkedIn: https://www.linkedin.com/in/kasun-gamage95/
 
 📫 How to reach me: https://www.facebook.com/Itsmekasun
 
@@ -12,7 +12,9 @@
 
 🏆 Things I worked on
 
-- ▶ Zoom Web Sdk Integration to the Angular APP
+- ⌨ Ui-Ux development
+- ⌨ Angular version migration
+- ▶ Zoom Web SDK Integration to the Angular APP
 - 📱 Zoom Integration (Cordova plugin) to the Ionic APP
 - ▶ OpenTok Integration to the Angular APP
 - 📱 OpenTok Integration (Cordova plugin) to the Ionic APP
